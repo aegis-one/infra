@@ -9,7 +9,7 @@
 # Description:       Enable service bud-tls daemon.
 ### END INIT INFO
 
-dir="/opt/bud"
+dir="/opt/bud-tls"
 cmd="/usr/local/bin/bud -d --conf /etc/bud/conf.json"
 user="root"
 
